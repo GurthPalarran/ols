@@ -1,0 +1,210 @@
+Order 1
+[1] Generated CNF file in DIMACS format. File path: /home/gurth/Work/src/c/ols/tmp/test.cnf
+[2] Exit solver with code 5120. Command: /home/gurth/Work/src/c/ols/tmp/glucose /home/gurth/Work/src/c/ols/tmp/test.cnf /home/gurth/Work/src/c/ols/tmp/test.out>/home/gurth/Work/src/c/ols/tmp/test.log
+[3] Parsed solver output and save an answer. File path: /home/gurth/Work/src/c/ols/tmp/answers/1.answer
+Finished in 0.002018s. 
+Order 2
+[1] Generated CNF file in DIMACS format. File path: /home/gurth/Work/src/c/ols/tmp/test.cnf
+[2] Exit solver with code 2560. Command: /home/gurth/Work/src/c/ols/tmp/glucose /home/gurth/Work/src/c/ols/tmp/test.cnf /home/gurth/Work/src/c/ols/tmp/test.out>/home/gurth/Work/src/c/ols/tmp/test.log
+[3] Parsed solver output and save an answer. File path: /home/gurth/Work/src/c/ols/tmp/answers/2.answer
+Finished in 0.000453s. 
+Order 3
+[1] Generated CNF file in DIMACS format. File path: /home/gurth/Work/src/c/ols/tmp/test.cnf
+[2] Exit solver with code 2560. Command: /home/gurth/Work/src/c/ols/tmp/glucose /home/gurth/Work/src/c/ols/tmp/test.cnf /home/gurth/Work/src/c/ols/tmp/test.out>/home/gurth/Work/src/c/ols/tmp/test.log
+[3] Parsed solver output and save an answer. File path: /home/gurth/Work/src/c/ols/tmp/answers/3.answer
+Finished in 0.001598s. 
+Order 4
+[1] Generated CNF file in DIMACS format. File path: /home/gurth/Work/src/c/ols/tmp/test.cnf
+[2] Exit solver with code 2560. Command: /home/gurth/Work/src/c/ols/tmp/glucose /home/gurth/Work/src/c/ols/tmp/test.cnf /home/gurth/Work/src/c/ols/tmp/test.out>/home/gurth/Work/src/c/ols/tmp/test.log
+[3] Parsed solver output and save an answer. File path: /home/gurth/Work/src/c/ols/tmp/answers/4.answer
+Finished in 0.002571s. 
+Order 5
+[1] Generated CNF file in DIMACS format. File path: /home/gurth/Work/src/c/ols/tmp/test.cnf
+[2] Exit solver with code 2560. Command: /home/gurth/Work/src/c/ols/tmp/glucose /home/gurth/Work/src/c/ols/tmp/test.cnf /home/gurth/Work/src/c/ols/tmp/test.out>/home/gurth/Work/src/c/ols/tmp/test.log
+[3] Parsed solver output and save an answer. File path: /home/gurth/Work/src/c/ols/tmp/answers/5.answer
+Finished in 0.004731s. 
+Order 6
+[1] Generated CNF file in DIMACS format. File path: /home/gurth/Work/src/c/ols/tmp/test.cnf
+[2] Exit solver with code 2560. Command: /home/gurth/Work/src/c/ols/tmp/glucose /home/gurth/Work/src/c/ols/tmp/test.cnf /home/gurth/Work/src/c/ols/tmp/test.out>/home/gurth/Work/src/c/ols/tmp/test.log
+[3] Parsed solver output and save an answer. File path: /home/gurth/Work/src/c/ols/tmp/answers/6.answer
+Finished in 0.011955s. 
+Order 7
+[1] Generated CNF file in DIMACS format. File path: /home/gurth/Work/src/c/ols/tmp/test.cnf
+[2] Exit solver with code 2560. Command: /home/gurth/Work/src/c/ols/tmp/glucose /home/gurth/Work/src/c/ols/tmp/test.cnf /home/gurth/Work/src/c/ols/tmp/test.out>/home/gurth/Work/src/c/ols/tmp/test.log
+[3] Parsed solver output and save an answer. File path: /home/gurth/Work/src/c/ols/tmp/answers/7.answer
+Finished in 0.012523s. 
+Order 8
+[1] Generated CNF file in DIMACS format. File path: /home/gurth/Work/src/c/ols/tmp/test.cnf
+[2] Exit solver with code 2560. Command: /home/gurth/Work/src/c/ols/tmp/glucose /home/gurth/Work/src/c/ols/tmp/test.cnf /home/gurth/Work/src/c/ols/tmp/test.out>/home/gurth/Work/src/c/ols/tmp/test.log
+[3] Parsed solver output and save an answer. File path: /home/gurth/Work/src/c/ols/tmp/answers/8.answer
+Finished in 0.020590s. 
+Order 9
+[1] Generated CNF file in DIMACS format. File path: /home/gurth/Work/src/c/ols/tmp/test.cnf
+[2] Exit solver with code 2560. Command: /home/gurth/Work/src/c/ols/tmp/glucose /home/gurth/Work/src/c/ols/tmp/test.cnf /home/gurth/Work/src/c/ols/tmp/test.out>/home/gurth/Work/src/c/ols/tmp/test.log
+[3] Parsed solver output and save an answer. File path: /home/gurth/Work/src/c/ols/tmp/answers/9.answer
+Finished in 0.040093s. 
+Order 10
+[1] Generated CNF file in DIMACS format. File path: /home/gurth/Work/src/c/ols/tmp/test.cnf
+[2] Exit solver with code 2560. Command: /home/gurth/Work/src/c/ols/tmp/glucose /home/gurth/Work/src/c/ols/tmp/test.cnf /home/gurth/Work/src/c/ols/tmp/test.out>/home/gurth/Work/src/c/ols/tmp/test.log
+[3] Parsed solver output and save an answer. File path: /home/gurth/Work/src/c/ols/tmp/answers/10.answer
+Finished in 0.050589s. 
+Order 11
+[1] Generated CNF file in DIMACS format. File path: /home/gurth/Work/src/c/ols/tmp/test.cnf
+[2] Exit solver with code 2560. Command: /home/gurth/Work/src/c/ols/tmp/glucose /home/gurth/Work/src/c/ols/tmp/test.cnf /home/gurth/Work/src/c/ols/tmp/test.out>/home/gurth/Work/src/c/ols/tmp/test.log
+[3] Parsed solver output and save an answer. File path: /home/gurth/Work/src/c/ols/tmp/answers/11.answer
+Finished in 0.081121s. 
+Order 12
+[1] Generated CNF file in DIMACS format. File path: /home/gurth/Work/src/c/ols/tmp/test.cnf
+[2] Exit solver with code 2560. Command: /home/gurth/Work/src/c/ols/tmp/glucose /home/gurth/Work/src/c/ols/tmp/test.cnf /home/gurth/Work/src/c/ols/tmp/test.out>/home/gurth/Work/src/c/ols/tmp/test.log
+[3] Parsed solver output and save an answer. File path: /home/gurth/Work/src/c/ols/tmp/answers/12.answer
+Finished in 0.106124s. 
+Order 13
+[1] Generated CNF file in DIMACS format. File path: /home/gurth/Work/src/c/ols/tmp/test.cnf
+[2] Exit solver with code 2560. Command: /home/gurth/Work/src/c/ols/tmp/glucose /home/gurth/Work/src/c/ols/tmp/test.cnf /home/gurth/Work/src/c/ols/tmp/test.out>/home/gurth/Work/src/c/ols/tmp/test.log
+[3] Parsed solver output and save an answer. File path: /home/gurth/Work/src/c/ols/tmp/answers/13.answer
+Finished in 0.147173s. 
+Order 14
+[1] Generated CNF file in DIMACS format. File path: /home/gurth/Work/src/c/ols/tmp/test.cnf
+[2] Exit solver with code 2560. Command: /home/gurth/Work/src/c/ols/tmp/glucose /home/gurth/Work/src/c/ols/tmp/test.cnf /home/gurth/Work/src/c/ols/tmp/test.out>/home/gurth/Work/src/c/ols/tmp/test.log
+[3] Parsed solver output and save an answer. File path: /home/gurth/Work/src/c/ols/tmp/answers/14.answer
+Finished in 0.194629s. 
+Order 15
+[1] Generated CNF file in DIMACS format. File path: /home/gurth/Work/src/c/ols/tmp/test.cnf
+[2] Exit solver with code 2560. Command: /home/gurth/Work/src/c/ols/tmp/glucose /home/gurth/Work/src/c/ols/tmp/test.cnf /home/gurth/Work/src/c/ols/tmp/test.out>/home/gurth/Work/src/c/ols/tmp/test.log
+[3] Parsed solver output and save an answer. File path: /home/gurth/Work/src/c/ols/tmp/answers/15.answer
+Finished in 0.259873s. 
+Order 16
+[1] Generated CNF file in DIMACS format. File path: /home/gurth/Work/src/c/ols/tmp/test.cnf
+[2] Exit solver with code 2560. Command: /home/gurth/Work/src/c/ols/tmp/glucose /home/gurth/Work/src/c/ols/tmp/test.cnf /home/gurth/Work/src/c/ols/tmp/test.out>/home/gurth/Work/src/c/ols/tmp/test.log
+[3] Parsed solver output and save an answer. File path: /home/gurth/Work/src/c/ols/tmp/answers/16.answer
+Finished in 0.339773s. 
+Order 17
+[1] Generated CNF file in DIMACS format. File path: /home/gurth/Work/src/c/ols/tmp/test.cnf
+[2] Exit solver with code 2560. Command: /home/gurth/Work/src/c/ols/tmp/glucose /home/gurth/Work/src/c/ols/tmp/test.cnf /home/gurth/Work/src/c/ols/tmp/test.out>/home/gurth/Work/src/c/ols/tmp/test.log
+[3] Parsed solver output and save an answer. File path: /home/gurth/Work/src/c/ols/tmp/answers/17.answer
+Finished in 0.442152s. 
+Order 18
+[1] Generated CNF file in DIMACS format. File path: /home/gurth/Work/src/c/ols/tmp/test.cnf
+[2] Exit solver with code 2560. Command: /home/gurth/Work/src/c/ols/tmp/glucose /home/gurth/Work/src/c/ols/tmp/test.cnf /home/gurth/Work/src/c/ols/tmp/test.out>/home/gurth/Work/src/c/ols/tmp/test.log
+[3] Parsed solver output and save an answer. File path: /home/gurth/Work/src/c/ols/tmp/answers/18.answer
+Finished in 0.531265s. 
+Order 19
+[1] Generated CNF file in DIMACS format. File path: /home/gurth/Work/src/c/ols/tmp/test.cnf
+[2] Exit solver with code 2560. Command: /home/gurth/Work/src/c/ols/tmp/glucose /home/gurth/Work/src/c/ols/tmp/test.cnf /home/gurth/Work/src/c/ols/tmp/test.out>/home/gurth/Work/src/c/ols/tmp/test.log
+[3] Parsed solver output and save an answer. File path: /home/gurth/Work/src/c/ols/tmp/answers/19.answer
+Finished in 0.670765s. 
+Order 20
+[1] Generated CNF file in DIMACS format. File path: /home/gurth/Work/src/c/ols/tmp/test.cnf
+[2] Exit solver with code 2560. Command: /home/gurth/Work/src/c/ols/tmp/glucose /home/gurth/Work/src/c/ols/tmp/test.cnf /home/gurth/Work/src/c/ols/tmp/test.out>/home/gurth/Work/src/c/ols/tmp/test.log
+[3] Parsed solver output and save an answer. File path: /home/gurth/Work/src/c/ols/tmp/answers/20.answer
+Finished in 0.846036s. 
+Order 21
+[1] Generated CNF file in DIMACS format. File path: /home/gurth/Work/src/c/ols/tmp/test.cnf
+[2] Exit solver with code 2560. Command: /home/gurth/Work/src/c/ols/tmp/glucose /home/gurth/Work/src/c/ols/tmp/test.cnf /home/gurth/Work/src/c/ols/tmp/test.out>/home/gurth/Work/src/c/ols/tmp/test.log
+[3] Parsed solver output and save an answer. File path: /home/gurth/Work/src/c/ols/tmp/answers/21.answer
+Finished in 0.986895s. 
+Order 22
+[1] Generated CNF file in DIMACS format. File path: /home/gurth/Work/src/c/ols/tmp/test.cnf
+[2] Exit solver with code 2560. Command: /home/gurth/Work/src/c/ols/tmp/glucose /home/gurth/Work/src/c/ols/tmp/test.cnf /home/gurth/Work/src/c/ols/tmp/test.out>/home/gurth/Work/src/c/ols/tmp/test.log
+[3] Parsed solver output and save an answer. File path: /home/gurth/Work/src/c/ols/tmp/answers/22.answer
+Finished in 1.229676s. 
+Order 23
+[1] Generated CNF file in DIMACS format. File path: /home/gurth/Work/src/c/ols/tmp/test.cnf
+[2] Exit solver with code 2560. Command: /home/gurth/Work/src/c/ols/tmp/glucose /home/gurth/Work/src/c/ols/tmp/test.cnf /home/gurth/Work/src/c/ols/tmp/test.out>/home/gurth/Work/src/c/ols/tmp/test.log
+[3] Parsed solver output and save an answer. File path: /home/gurth/Work/src/c/ols/tmp/answers/23.answer
+Finished in 1.467219s. 
+Order 24
+[1] Generated CNF file in DIMACS format. File path: /home/gurth/Work/src/c/ols/tmp/test.cnf
+[2] Exit solver with code 2560. Command: /home/gurth/Work/src/c/ols/tmp/glucose /home/gurth/Work/src/c/ols/tmp/test.cnf /home/gurth/Work/src/c/ols/tmp/test.out>/home/gurth/Work/src/c/ols/tmp/test.log
+[3] Parsed solver output and save an answer. File path: /home/gurth/Work/src/c/ols/tmp/answers/24.answer
+Finished in 1.712654s. 
+Order 25
+[1] Generated CNF file in DIMACS format. File path: /home/gurth/Work/src/c/ols/tmp/test.cnf
+[2] Exit solver with code 2560. Command: /home/gurth/Work/src/c/ols/tmp/glucose /home/gurth/Work/src/c/ols/tmp/test.cnf /home/gurth/Work/src/c/ols/tmp/test.out>/home/gurth/Work/src/c/ols/tmp/test.log
+[3] Parsed solver output and save an answer. File path: /home/gurth/Work/src/c/ols/tmp/answers/25.answer
+Finished in 1.992457s. 
+Order 26
+[1] Generated CNF file in DIMACS format. File path: /home/gurth/Work/src/c/ols/tmp/test.cnf
+[2] Exit solver with code 2560. Command: /home/gurth/Work/src/c/ols/tmp/glucose /home/gurth/Work/src/c/ols/tmp/test.cnf /home/gurth/Work/src/c/ols/tmp/test.out>/home/gurth/Work/src/c/ols/tmp/test.log
+[3] Parsed solver output and save an answer. File path: /home/gurth/Work/src/c/ols/tmp/answers/26.answer
+Finished in 2.339851s. 
+Order 27
+[1] Generated CNF file in DIMACS format. File path: /home/gurth/Work/src/c/ols/tmp/test.cnf
+[2] Exit solver with code 2560. Command: /home/gurth/Work/src/c/ols/tmp/glucose /home/gurth/Work/src/c/ols/tmp/test.cnf /home/gurth/Work/src/c/ols/tmp/test.out>/home/gurth/Work/src/c/ols/tmp/test.log
+[3] Parsed solver output and save an answer. File path: /home/gurth/Work/src/c/ols/tmp/answers/27.answer
+Finished in 2.705637s. 
+Order 28
+[1] Generated CNF file in DIMACS format. File path: /home/gurth/Work/src/c/ols/tmp/test.cnf
+[2] Exit solver with code 2560. Command: /home/gurth/Work/src/c/ols/tmp/glucose /home/gurth/Work/src/c/ols/tmp/test.cnf /home/gurth/Work/src/c/ols/tmp/test.out>/home/gurth/Work/src/c/ols/tmp/test.log
+[3] Parsed solver output and save an answer. File path: /home/gurth/Work/src/c/ols/tmp/answers/28.answer
+Finished in 3.206730s. 
+Order 29
+[1] Generated CNF file in DIMACS format. File path: /home/gurth/Work/src/c/ols/tmp/test.cnf
+[2] Exit solver with code 2560. Command: /home/gurth/Work/src/c/ols/tmp/glucose /home/gurth/Work/src/c/ols/tmp/test.cnf /home/gurth/Work/src/c/ols/tmp/test.out>/home/gurth/Work/src/c/ols/tmp/test.log
+[3] Parsed solver output and save an answer. File path: /home/gurth/Work/src/c/ols/tmp/answers/29.answer
+Finished in 3.639148s. 
+Order 30
+[1] Generated CNF file in DIMACS format. File path: /home/gurth/Work/src/c/ols/tmp/test.cnf
+[2] Exit solver with code 2560. Command: /home/gurth/Work/src/c/ols/tmp/glucose /home/gurth/Work/src/c/ols/tmp/test.cnf /home/gurth/Work/src/c/ols/tmp/test.out>/home/gurth/Work/src/c/ols/tmp/test.log
+[3] Parsed solver output and save an answer. File path: /home/gurth/Work/src/c/ols/tmp/answers/30.answer
+Finished in 4.121811s. 
+Order 31
+[1] Generated CNF file in DIMACS format. File path: /home/gurth/Work/src/c/ols/tmp/test.cnf
+[2] Exit solver with code 2560. Command: /home/gurth/Work/src/c/ols/tmp/glucose /home/gurth/Work/src/c/ols/tmp/test.cnf /home/gurth/Work/src/c/ols/tmp/test.out>/home/gurth/Work/src/c/ols/tmp/test.log
+[3] Parsed solver output and save an answer. File path: /home/gurth/Work/src/c/ols/tmp/answers/31.answer
+Finished in 4.734873s. 
+Order 32
+[1] Generated CNF file in DIMACS format. File path: /home/gurth/Work/src/c/ols/tmp/test.cnf
+[2] Exit solver with code 2560. Command: /home/gurth/Work/src/c/ols/tmp/glucose /home/gurth/Work/src/c/ols/tmp/test.cnf /home/gurth/Work/src/c/ols/tmp/test.out>/home/gurth/Work/src/c/ols/tmp/test.log
+[3] Parsed solver output and save an answer. File path: /home/gurth/Work/src/c/ols/tmp/answers/32.answer
+Finished in 5.384437s. 
+Order 33
+[1] Generated CNF file in DIMACS format. File path: /home/gurth/Work/src/c/ols/tmp/test.cnf
+[2] Exit solver with code 2560. Command: /home/gurth/Work/src/c/ols/tmp/glucose /home/gurth/Work/src/c/ols/tmp/test.cnf /home/gurth/Work/src/c/ols/tmp/test.out>/home/gurth/Work/src/c/ols/tmp/test.log
+[3] Parsed solver output and save an answer. File path: /home/gurth/Work/src/c/ols/tmp/answers/33.answer
+Finished in 6.223641s. 
+Order 34
+[1] Generated CNF file in DIMACS format. File path: /home/gurth/Work/src/c/ols/tmp/test.cnf
+[2] Exit solver with code 2560. Command: /home/gurth/Work/src/c/ols/tmp/glucose /home/gurth/Work/src/c/ols/tmp/test.cnf /home/gurth/Work/src/c/ols/tmp/test.out>/home/gurth/Work/src/c/ols/tmp/test.log
+[3] Parsed solver output and save an answer. File path: /home/gurth/Work/src/c/ols/tmp/answers/34.answer
+Finished in 6.831534s. 
+Order 35
+[1] Generated CNF file in DIMACS format. File path: /home/gurth/Work/src/c/ols/tmp/test.cnf
+[2] Exit solver with code 2560. Command: /home/gurth/Work/src/c/ols/tmp/glucose /home/gurth/Work/src/c/ols/tmp/test.cnf /home/gurth/Work/src/c/ols/tmp/test.out>/home/gurth/Work/src/c/ols/tmp/test.log
+[3] Parsed solver output and save an answer. File path: /home/gurth/Work/src/c/ols/tmp/answers/35.answer
+Finished in 7.716694s. 
+Order 36
+[1] Generated CNF file in DIMACS format. File path: /home/gurth/Work/src/c/ols/tmp/test.cnf
+[2] Exit solver with code 2560. Command: /home/gurth/Work/src/c/ols/tmp/glucose /home/gurth/Work/src/c/ols/tmp/test.cnf /home/gurth/Work/src/c/ols/tmp/test.out>/home/gurth/Work/src/c/ols/tmp/test.log
+[3] Parsed solver output and save an answer. File path: /home/gurth/Work/src/c/ols/tmp/answers/36.answer
+Finished in 8.608372s. 
+Order 37
+[1] Generated CNF file in DIMACS format. File path: /home/gurth/Work/src/c/ols/tmp/test.cnf
+[2] Exit solver with code 2560. Command: /home/gurth/Work/src/c/ols/tmp/glucose /home/gurth/Work/src/c/ols/tmp/test.cnf /home/gurth/Work/src/c/ols/tmp/test.out>/home/gurth/Work/src/c/ols/tmp/test.log
+[3] Parsed solver output and save an answer. File path: /home/gurth/Work/src/c/ols/tmp/answers/37.answer
+Finished in 9.743675s. 
+Order 38
+[1] Generated CNF file in DIMACS format. File path: /home/gurth/Work/src/c/ols/tmp/test.cnf
+[2] Exit solver with code 2560. Command: /home/gurth/Work/src/c/ols/tmp/glucose /home/gurth/Work/src/c/ols/tmp/test.cnf /home/gurth/Work/src/c/ols/tmp/test.out>/home/gurth/Work/src/c/ols/tmp/test.log
+[3] Parsed solver output and save an answer. File path: /home/gurth/Work/src/c/ols/tmp/answers/38.answer
+Finished in 10.850059s. 
+Order 39
+[1] Generated CNF file in DIMACS format. File path: /home/gurth/Work/src/c/ols/tmp/test.cnf
+[2] Exit solver with code 2560. Command: /home/gurth/Work/src/c/ols/tmp/glucose /home/gurth/Work/src/c/ols/tmp/test.cnf /home/gurth/Work/src/c/ols/tmp/test.out>/home/gurth/Work/src/c/ols/tmp/test.log
+[3] Parsed solver output and save an answer. File path: /home/gurth/Work/src/c/ols/tmp/answers/39.answer
+Finished in 12.219991s. 
+Order 40
+[1] Generated CNF file in DIMACS format. File path: /home/gurth/Work/src/c/ols/tmp/test.cnf
+[2] Exit solver with code 2560. Command: /home/gurth/Work/src/c/ols/tmp/glucose /home/gurth/Work/src/c/ols/tmp/test.cnf /home/gurth/Work/src/c/ols/tmp/test.out>/home/gurth/Work/src/c/ols/tmp/test.log
+[3] Parsed solver output and save an answer. File path: /home/gurth/Work/src/c/ols/tmp/answers/40.answer
+Finished in 13.114945s. 
+Order 41
+[1] Generated CNF file in DIMACS format. File path: /home/gurth/Work/src/c/ols/tmp/test.cnf
+[2] Exit solver with code 2560. Command: /home/gurth/Work/src/c/ols/tmp/glucose /home/gurth/Work/src/c/ols/tmp/test.cnf /home/gurth/Work/src/c/ols/tmp/test.out>/home/gurth/Work/src/c/ols/tmp/test.log
+[3] Parsed solver output and save an answer. File path: /home/gurth/Work/src/c/ols/tmp/answers/41.answer
+Finished in 14.604334s. 
+Order 42
+[1] Generated CNF file in DIMACS format. File path: /home/gurth/Work/src/c/ols/tmp/test.cnf
+[2] Exit solver with code 2. Command: /home/gurth/Work/src/c/ols/tmp/glucose /home/gurth/Work/src/c/ols/tmp/test.cnf /home/gurth/Work/src/c/ols/tmp/test.out>/home/gurth/Work/src/c/ols/tmp/test.log
+[3] Parsed solver output and save an answer. File path: /home/gurth/Work/src/c/ols/tmp/answers/42.answer
+Finished in 16.447476s. 
